@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "_username": "kriti",
+      "_password": "asdfg",
+      "_contact": "9999749846",
+      "_email": "kritisharm9846@gmail.com",
+      "_address": "erfgthyjkl",
+      "id": 1
+    },
+    {
+      "_username": "manju",
+      "_password": "12345",
+      "_contact": "9876543234",
+      "_email": "manju@gmail.com",
+      "_address": "lkjhgfdfty",
+      "id": 2
+    },
+    {
+      "_username": "rohit",
+      "_password": "9876",
+      "_contact": "9876543212",
+      "_email": "rohit@gmail.com",
+      "_address": "B  75 Lajpat Nagar 2\nNEW DELHI 110024",
+      "id": 3
+    }
+  ]
+}
